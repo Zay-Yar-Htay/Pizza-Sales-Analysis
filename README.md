@@ -4,9 +4,9 @@
 
 1. [Project Overview](#project-overview)
 2. [Tools](#tools)
-3. [Business Questions](#exploratory-data-analysis)
+3. [Business Questions](#business-questions)
 4. [Visualization](#visualization)
-5. [Insights and Recommendation](#key-findings)
+5. [Insights and Recommendation](#insights-and-recommendation)
 
 
 ## Project Overview
