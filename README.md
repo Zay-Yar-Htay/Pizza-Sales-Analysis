@@ -19,9 +19,13 @@ This is Plato's Pizza Place Sales data set provided by Maven Analytic which cont
 * Leveraged Power BI to transform raw data into visually appealing and informative dashboards.
 * Designed interactive visualizations to showcase key findings and trends identified during the analysis process.
 * Implemented dynamic filters and slicers to enable users to explore data from different perspectives.
+
 Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis, facilitating informed business decisions.
 
 ## Tools
 * SQL(MySQL) - Creating Database, Data Cleaning, Data Modelling and Expanding the database schema.
 * Power BI - Analyzing and Creating Interactive Report
 * Power Point - Report and Dashboard Design
+
+## Visualization
+![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/a3ef9619-48d3-45a6-a941-7978075e5b28)
