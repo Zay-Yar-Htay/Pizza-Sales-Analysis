@@ -44,10 +44,12 @@ Unveiled key insights including revenue trends, peak customer hours, bestselling
 * Bestseller Spotlight: "The Classic Deluxe Pizza" shines as a top performer, winning the hearts of our customers with its delicious blend of flavors.
 * Under-Performing Slice: On the flip side, "The Brie Carre Pizza" has struggled to make an impact, indicating a potential candidate for menu reevaluation or promotional efforts.
 * Next Step: Leveraging the success of our bestsellers, we can consider highlighting them in promotions and marketing campaigns to drive sales. Additionally, assessing the appeal and sales potential of under-performing pizzas like "The Brie Carre Pizza" can guide decisions regarding menu adjustments or targeted promotions to boost their visibility and appeal.
+
 **Pizza Category Insights**
 * Classic Takes the Lead: Classic pizzas lead both in revenue and total units sold, indicating strong popularity among customers.
 * Veggie and Supreme Follow: Veggie and Supreme pizzas trail behind Classic, showcasing consistent performance in both revenue and sales.
 * Chicken Trails Behind: Chicken pizzas, while still contributing to sales, have the lowest revenue and sales volume among all categories.
+
 **Pizza Size Analysis**
 * Large Pizzas Reign: Large pizzas dominate both in revenue and total units sold, reflecting strong demand for this size.
 * Medium Follows Suit: Medium-sized pizzas are the second most popular choice, generating substantial revenue and sales.
