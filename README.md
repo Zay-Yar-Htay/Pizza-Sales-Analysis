@@ -19,7 +19,7 @@ This is Plato's Pizza Place Sales data set provided by Maven Analytic which cont
 * Designed interactive visualizations to showcase key findings and trends identified during the analysis process.
 * Implemented dynamic filters and slicers to enable users to explore data from different perspectives.
 
-Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis, facilitating informed business decisions.
+Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis. This dashboard offers valuable insights that can assist restaurant owners, managers, and stakeholders in making decisions to optimize operations, increase revenue, and enhance customer satisfaction.
 
 ## Tools
 * SQL(MySQL) - Creating Database, Data Cleaning, Data Modelling and Expanding the database schema.
