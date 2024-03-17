@@ -28,4 +28,4 @@ Unveiled key insights including revenue trends, peak customer hours, bestselling
 * Power Point - Report and Dashboard Design
 
 ## Visualization
-![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Udemy-Courses-Analysis/assets/157587547/a3ef9619-48d3-45a6-a941-7978075e5b28)
+![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/blob/main/Plato's%20Pizza%20Sales%20Analysis.png)
