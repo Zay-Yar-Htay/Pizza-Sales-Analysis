@@ -4,10 +4,9 @@
 
 1. [Project Overview](#project-overview)
 2. [Tools](#tools)
-3. [Data Cleaning and Preparation](#data-cleaning-and-preparation)
-4. [Business Questions](#exploratory-data-analysis)
-5. [Visualization](#visualization)
-6. [Insights and Recommendation](#key-findings)
+3. [Business Questions](#exploratory-data-analysis)
+4. [Visualization](#visualization)
+5. [Insights and Recommendation](#key-findings)
 
 
 ## Project Overview
@@ -26,6 +25,12 @@ Unveiled key insights including revenue trends, peak customer hours, bestselling
 * SQL(MySQL) - Creating Database, Data Cleaning, Data Modelling and Expanding the database schema.
 * Power BI - Analyzing and Creating Interactive Report
 * Power Point - Report and Dashboard Design
+
+## Business Questions
+1. How many customers do we have each day? Are there any peak hours? 
+2. How many pizzas are typically in an order? Do we have any bestsellers?
+3. How much money did we make this year? Can we indentify any seasonality in the sales?
+4. Are there any pizzas we should take of the menu, or any promotions we could leverage? 
 
 ## Visualization
 ![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/blob/main/Plato's%20Pizza%20Sales%20Analysis.png)
