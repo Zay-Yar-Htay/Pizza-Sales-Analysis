@@ -33,7 +33,8 @@ Unveiled key insights including revenue trends, peak customer hours, bestselling
 4. Are there any pizzas we should take of the menu, or any promotions we could leverage? 
 
 ## Visualization
-![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/blob/main/Plato's%20Pizza%20Sales%20Analysis.png)
+![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/assets/157587547/e3c50516-5861-41fb-98d4-d6165a4cdef0)
+
 
 ## Insights and Recommendation
 * **July Reigns Supreme**: Looking back at 2015, July emerged as our top-performing month, followed closely by May, March, and November. Meanwhile, October saw the lowest revenue figures.
