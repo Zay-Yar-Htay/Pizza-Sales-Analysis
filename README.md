@@ -10,7 +10,7 @@
 
 
 ## Project Overview
-This is Plato's Pizza Place Sales data set provided by Maven Analytics which contains 48,620 sales records with multiple table structures (4 Tables). 
+This is Plato's Pizza Place Sales dataset provided by Maven Analytics which contains 48,620 sales records with multiple table structures (4 Tables). 
 * Utilized MySQL to design and create a relational database, employing principles of data modeling.
 * Connected four tables within the database to establish relationships between disparate datasets.
 * Implemented data modeling techniques to ensure coherence and integrity within the database structure.
