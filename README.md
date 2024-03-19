@@ -60,19 +60,6 @@ In this project, we aimed to analyze a dataset using MySQL for database operatio
 * Interactive reports empowered stakeholders to explore the data dynamically and derive actionable insights for decision-making.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Tools
 * SQL(MySQL) - Creating Database, Data Cleaning, Data Modelling and Expanding the database schema.
 * Power BI - Analyzing and Creating Interactive Report
@@ -88,7 +75,7 @@ In this project, we aimed to analyze a dataset using MySQL for database operatio
 ![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/assets/157587547/e3c50516-5861-41fb-98d4-d6165a4cdef0)
 
 
-## Insights and Recommendation
+## Insights
 * **July Reigns Supreme**: Looking back at 2015, July emerged as our top-performing month, followed closely by May, March, and November. Meanwhile, October saw the lowest revenue figures.
 * **Busiest Hours**: Lunchtime, particularly 12:00 PM to 2:00 PM, sees the highest order volumes on weekdays, emphasizing lunch breaks as peak ordering times.
 * **Weekday Patterns**: Mondays and Wednesdays mirror this trend, showing consistent midday orders, gradually decreasing towards evenings.
@@ -107,3 +94,13 @@ In this project, we aimed to analyze a dataset using MySQL for database operatio
 * **Large Pizzas Reign**: Large pizzas dominate both in revenue and total units sold, reflecting strong demand for this size.
 * **Medium Follows Suit**: Medium-sized pizzas are the second most popular choice, generating substantial revenue and sales.
 * **Limited Demand for Larger Sizes**: Extra Large and Double Extra Large pizzas have lower revenue and sales volume, suggesting a lesser demand for larger-sized pizzas.
+
+## Recommendation
+1. Leverage Popular Hours for Promotions: Capitalize on the peak ordering times during lunch hours, especially between 12:00 PM to 2:00 PM on weekdays. Consider launching targeted promotions or special deals during these hours to attract more customers and increase sales further. Promotions could include lunchtime combos or discounts for orders placed during these busy periods.
+2. Menu Optimization for Sales Boost: Highlight top-performing pizzas like "The Classic Deluxe Pizza" in marketing campaigns and promotions to maximize their sales potential. Conversely, evaluate the under-performing "Brie Carre Pizza" for potential menu adjustments or promotional efforts to enhance its appeal. This could involve tweaking the recipe, adjusting pricing, or launching limited-time offers to encourage customers to try it.
+3. Promote Popular Pizza Categories: Given the dominance of classic pizzas in both revenue and sales, prioritize promoting this category through targeted marketing efforts. Consider bundling classic pizzas with complementary side dishes or beverages to create appealing meal deals for customers. Additionally, focus on promoting veggie and supreme pizzas, which also exhibit consistent performance, to cater to diverse preferences and increase overall sales.
+4. Optimize Pizza Size Offerings: Since large pizzas are the most popular choice among customers, ensure that promotional offers and deals prominently feature this size option. Consider introducing value packs or family-sized meal deals centered around large pizzas to encourage upselling and increase average order value. Meanwhile, monitor demand for extra-large and double extra-large pizzas and adjust inventory levels accordingly to minimize waste and optimize profitability.
+5. Seasonal Promotions for Revenue Boost: Analyze sales data to identify seasonal trends and leverage this information to plan targeted promotions throughout the year. For instance, capitalize on the high demand for pizzas during peak months like July, May, March, and November by launching seasonal campaigns or limited-time offers tailored to customer preferences during these periods. Additionally, consider introducing special promotions or menu items aligned with holidays or events to drive sales during specific seasons.
+6. Continuous Monitoring and Adaptation: Regularly review sales data and customer feedback to monitor the effectiveness of promotions, menu changes, and marketing strategies. Stay agile and be willing to adjust tactics based on evolving customer preferences, market trends, and competitor activities. By maintaining a data-driven approach and actively responding to insights, the business can sustain growth and maintain its competitive edge in the pizza industry.
+
+Conclusion : By combining MySQL for database operations and Power BI for visualization and reporting, this project demonstrated an effective approach to analyze and visualize datasets, uncover insights, and communicate findings to stakeholders. The methodology followed in this project can be applied to various domains and datasets to drive data-driven decision-making and business intelligence initiatives.
