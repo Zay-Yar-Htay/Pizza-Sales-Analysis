@@ -10,16 +10,68 @@
 
 
 ## Project Overview
-This is Plato's Pizza Place Sales dataset provided by Maven Analytics which contains 48,620 sales records with multiple table structures (4 Tables). 
-* Utilized MySQL to design and create a relational database, employing principles of data modeling.
-* Connected four tables within the database to establish relationships between disparate datasets.
-* Implemented data modeling techniques to ensure coherence and integrity within the database structure.
-* Expanded the database schema by adding new columns to accommodate analytical requirements and enhance data modeling capabilities.
-* Leveraged Power BI to transform raw data into visually appealing and informative dashboards.
-* Designed interactive visualizations to showcase key findings and trends identified during the analysis process.
-* Implemented dynamic filters and slicers to enable users to explore data from different perspectives.
+This is Plato's Pizza Place Sales dataset provided by Maven Analytics which contains 48,620 sales records with multiple table structures (4 Tables).
 
-Unveiled key insights including revenue trends, peak customer hours, bestselling pizzas, and category and size analysis. This dashboard offers valuable insights that can assist restaurant owners, managers, and stakeholders in making decisions to optimize operations, increase revenue, and enhance customer satisfaction.
+**Introduction:**
+In this project, we aimed to analyze a dataset using MySQL for database operations, including data inspection, manipulation, and retrieval, followed by deep analysis using Power BI for visualization and the creation of interactive reports. The project involved several key steps, including database setup, data exploration, feature engineering, and visualization to derive actionable insights.
+
+**Objectives:**
+1. Setup MySQL database: Create a database environment to store and manage the dataset efficiently.
+2. Data inspection: Explore the dataset to understand its structure, content, and relationships between different tables.
+3. Feature engineering: Enhance the dataset by adding new columns or transforming existing ones to facilitate deeper analysis.
+4. Data retrieval: Extract relevant data from the database to perform analysis and visualization.
+5. Deep analysis: Utilize Power BI to visualize the dataset, identify trends, patterns, and correlations, and derive actionable insights.
+6. Interactive reporting: Create interactive reports in Power BI to communicate findings effectively and enable stakeholders to explore the data dynamically.
+
+**Methodology:**
+1. Database Setup:
+* Install and configure MySQL database server.
+* Create a new database and tables to store the dataset.
+* Import the dataset into MySQL tables.
+
+2. Data Inspection:
+* Use SQL queries to inspect the data, including table structures, data types, and sample records.
+* Identify any missing or inconsistent data that may require cleaning or preprocessing.
+
+3. Feature Engineering:
+* Add new columns to the dataset based on domain knowledge or analytical requirements.
+* Perform data transformations, such as normalization, aggregation, or categorical encoding, to prepare the data for analysis.
+
+4. Data Retrieval:
+* Write SQL queries to extract relevant data subsets for analysis.
+* Join multiple tables if necessary to combine related information.
+
+5. Deep Analysis:
+* Connect Power BI to the MySQL database to access the data.
+* Design visually appealing and informative charts, graphs, and dashboards to explore the dataset.
+* Apply statistical analysis, trend analysis, and correlation analysis to uncover insights.
+
+6. Interactive Reporting:
+* Create interactive reports in Power BI using the visualizations generated in the previous step.
+* Add filters, slicers, and drill-down capabilities to enable users to interact with the data dynamically.
+* Publish the reports to a shared workspace or online platform for easy access by stakeholders.
+
+**Results:**
+* The MySQL database was successfully set up, and the dataset was imported for analysis.
+* Data inspection revealed insights into the structure and content of the dataset, guiding further analysis.
+* Feature engineering improved the dataset's suitability for deep analysis by adding relevant columns and transforming data.
+* Data retrieval queries effectively extracted subsets of data for analysis.
+* Power BI visualizations provided meaningful insights into the dataset, including trends, patterns, and correlations.
+* Interactive reports empowered stakeholders to explore the data dynamically and derive actionable insights for decision-making.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Tools
 * SQL(MySQL) - Creating Database, Data Cleaning, Data Modelling and Expanding the database schema.
