@@ -72,7 +72,7 @@ In this project, we aimed to analyze a dataset using MySQL for database operatio
 4. Are there any pizzas we should take of the menu, or any promotions we could leverage? 
 
 ## Visualization
-![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/assets/157587547/e3c50516-5861-41fb-98d4-d6165a4cdef0)
+![Plato's Pizza Sales Analysis Report](https://github.com/Zay-Yar-Htay/Pizza-Sales-Analysis/assets/157587547/8d40f53a-e9de-4a73-b723-916a9e22d39b)
 
 
 ## Insights and Recommendation
