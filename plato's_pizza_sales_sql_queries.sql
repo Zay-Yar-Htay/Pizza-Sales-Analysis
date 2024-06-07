@@ -14,7 +14,7 @@ USE `pizza_place_sales`;
 -- -------------------------------------------------
 -- Table Structure Of Orders Table
 CREATE TABLE `orders` (
-	`order_id` int (10) NOT NULL AUTO_INCREMENT,
+    `order_id` int (10) NOT NULL AUTO_INCREMENT,
     `date` date NOT NULL,
     `time` time NOT NULL,
     PRIMARY KEY (`order_id`)
@@ -33,7 +33,7 @@ IGNORE 1 ROWS;
 
 -- Table Structure Of Pizza Types Table
 CREATE TABLE `pizza_types` (
-	`pizza_type_id` varchar (50) NOT NULL,
+    `pizza_type_id` varchar (50) NOT NULL,
     `name` varchar (500) NOT NULL,
     `category` varchar (250) NOT NULL,
     `ingredients` text NOT NULL,
@@ -53,7 +53,7 @@ IGNORE 1 ROWS;
 
 -- Table Structure Of Pizzas Table
 CREATE TABLE `pizzas` (
-	`pizza_id` varchar (100) NOT NULL,
+    `pizza_id` varchar (100) NOT NULL,
     `pizza_type_id` varchar (100) NOT NULL,
     `size` varchar (50) NOT NULL,
     `price` decimal (10,2),
@@ -74,13 +74,13 @@ IGNORE 1 ROWS;
 
 -- Table Structure Of Order Details Table
 CREATE TABLE `order_details` (
-	`order_details_id` int (10) NOT NULL,
+    `order_details_id` int (10) NOT NULL,
     `order_id` int (10) NOT NULL,
     `pizza_id` varchar (100) NOT NULL,
     `quantity` tinyint,
     PRIMARY KEY (`order_details_id`),
     FOREIGN KEY (`order_id`) REFERENCES `orders` (`order_id`),
-	FOREIGN KEY (`pizza_id`) REFERENCES `pizzas` (`pizza_id`)
+    FOREIGN KEY (`pizza_id`) REFERENCES `pizzas` (`pizza_id`)
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
     -- -------------------------------------------------
 -- To Import Data From CSV For Order Details
@@ -97,7 +97,7 @@ IGNORE 1 ROWS;
 
 USE `pizza_place_sales`;
 SELECT 
-	'order_id', 
+    'order_id', 
     'order_details_id', 
     'date', 
     'monnth_name', 
@@ -117,8 +117,8 @@ SELECT
     'ingredients'
 UNION ALL -- To include column name when export csv file
 SELECT 
-	o.`order_id`,
-	od.`order_details_id`,
+    o.`order_id`,
+    od.`order_details_id`,
     o.`date`,
     MONTHNAME(o.`date`) AS `month_name`, -- To convert month name
     MONTH(o.`date`) AS `month_name_order`, -- To convert month number for visual order purposes
@@ -131,7 +131,7 @@ SELECT
     pt.`pizza_type_id`,
     pt.`name`,
 	CASE 
-		WHEN size = 'XXL' THEN 'Double Extra Large'
+	WHEN size = 'XXL' THEN 'Double Extra Large'
         WHEN size = 'XL' THEN 'Extra Large'
         WHEN size = 'L' THEN 'Large'
         WHEN size = 'M' THEN 'Medium'
